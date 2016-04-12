@@ -90,7 +90,7 @@
         <div class="breadcrumbIn">
             <ul>
                 <li><a href="index.php" class="toptip" title="Homepage"> <i class="icon-home"></i> </a></li>
-                <li><a href="cripto-videos.php"> Videos </a></li>
+                <li><a href="videos.html"> Videos </a></li>
                 <li> Criptovideos </li>
             </ul>
         </div><!-- breadcrumb -->
@@ -100,7 +100,7 @@
         <div class="posts">
             <div class="def-block">
                 <div class="post row-fluid clearfix">
-                    <iframe  height="500" src="//www.youtube.com/embed/<?php echo $_GET['id']; ?>?rel=0" frameborder="0" allowfullscreen></iframe>
+                    <iframe  height="500" src="//www.redtube.com/embed/<?php echo $_GET['id']; ?>?rel=0" frameborder="0" allowfullscreen></iframe>
 
     <!--            <h3 class="post-title"> <a href="http://loscriptozoos.com/criptoplayvideo.php?id=tp6fYmIM6EY">Grabado y editado por DeMarjal</a> </h3>
                     <p>Making of de la grabación del tema "Johnny" de Los Criptozoos para el recopilatorio Black Ice 2014..</p>   -->
