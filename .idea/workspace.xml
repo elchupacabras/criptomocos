@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fbcfd61-d214-4257-b887-65c58926d2e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos.html" afterPath="$PROJECT_DIR$/videos.html" />
-    </list>
+    <list default="true" id="1fbcfd61-d214-4257-b887-65c58926d2e5" name="Default" comment="" />
     <ignored path="criptomocos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -122,6 +119,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -209,7 +216,8 @@
     </option>
     <MESSAGE value="tocando el randomate en el index" />
     <MESSAGE value="descripccion del logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="descripccion del logo" />
+    <MESSAGE value="he añadiso seguimiento al index y en videos&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="he añadiso seguimiento al index y en videos&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
