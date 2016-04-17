@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fbcfd61-d214-4257-b887-65c58926d2e5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/videos.html" afterPath="$PROJECT_DIR$/videos.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="1fbcfd61-d214-4257-b887-65c58926d2e5" name="Default" comment="" />
     <ignored path="criptomocos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
